@@ -1,6 +1,6 @@
 
 library(data.table)
-bigWigs.dt <- fread("2017-10-bigWigs.txt", header=FALSE)
+bigWigs.dt <- fread("2017-10-bigWigs.txt", header=FALSE, sep="\n")
 setnames(bigWigs.dt, "url")
 
 library(namedCapture)
@@ -61,11 +61,10 @@ system(paste("bigWigToBedGraph", bigWig.url, "/dev/stdout -chrom=chr1 -start=0 -
 (signal <- match.dt[experiment=="H3K27ac" & dataType=="signal_unstranded"])
 bigWig.i <- signal$row[1]
 bigWig.url <- bigWigs.dt$url[bigWig.i]
-system(paste("bigWigToBedGraph", bigWig.url, "/dev/stdout -chrom=chr1 -start=0 -end=100000"))
+system(paste("bigWigToBedGraph", bigWig.url, "/dev/stdout -chrom=chr1 -start=0 -end=100000 | tee test.bedGraph"))
 
 core.hist.vec <- c(
   "H3K27ac", "H3K4me3", "H3K4me1", "H3K27me3", "H3K36me3", "H3K9me3")
-
 match.dt[experiment %in% core.hist.vec, table(experiment, dataType)]
 core.hist.dt <- match.dt[experiment %in% core.hist.vec & grepl("signal", dataType)]
 core.hist.dt[, table(experiment, dataType)]
