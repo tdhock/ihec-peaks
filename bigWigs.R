@@ -51,6 +51,10 @@ bigWig.i <- peaks_bw$row[1]
 bigWig.url <- bigWigs.dt$url[bigWig.i]
 system(paste("bigWigToBedGraph", bigWig.url, "/dev/stdout -chrom=chr1 -start=0 -end=1000000"))
 
+## Q: why is genome missing from 30 samples?
+
+## Q: how to get cell type data from URL?
+
 ## what about signal? seems OK.
 (signal <- match.dt[experiment=="H3K27ac" & dataType=="signal"])
 bigWig.i <- signal$row[1]
@@ -66,6 +70,28 @@ system(paste("bigWigToBedGraph", bigWig.url, "/dev/stdout -chrom=chr1 -start=0 -
 core.hist.vec <- c(
   "H3K27ac", "H3K4me3", "H3K4me1", "H3K27me3", "H3K36me3", "H3K9me3")
 match.dt[experiment %in% core.hist.vec, table(experiment, dataType)]
-core.hist.dt <- match.dt[experiment %in% core.hist.vec & grepl("signal", dataType)]
+core.hist.dt <- match.dt[experiment %in% core.hist.vec & grepl("signal", dataType) & genome=="hg19"]
 core.hist.dt[, table(experiment, dataType)]
 
+match.dt[experiment %in% core.hist.vec & grepl("signal", dataType), table(experiment, genome)]
+
+
+for(file.i in 1:nrow(core.hist.dt)){
+  file.row <- core.hist.dt[file.i]
+  u <- bigWigs.dt$url[file.row$row]
+  no.bigWig <- sub(".bigWig", "", basename(u))
+  sample.dir <- file.path("~/PeakSegFPOP/labels", file.row$experiment, "samples", "portal", no.bigWig)
+  dir.create(sample.dir, showWarnings=FALSE, recursive=TRUE)
+  coverage.bedGraph <- file.path(sample.dir, "coverage.bedGraph")
+  system.time({
+    system(paste("bigWigToBedGraph", bigWig.url, coverage.bedGraph))
+  })
+  normalized.bigWig <- file.path(sample.dir, "normalized.bigWig")
+  system.time({
+    download.file(bigWig.url, normalized.bigWig)
+    system(paste("bigWigToBedGraph", normalized.bigWig, coverage.bedGraph))
+  })
+  counts.bedGraph <- file.path(sample.dir, "counts.bedGraph")
+  system(paste("./denormalize", coverage.bedGraph, counts.bedGraph))
+  system(paste("bedGraphToBigWig", 
+}

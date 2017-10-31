@@ -1,0 +1,121 @@
+http://epigenomesportal.ca/tracks/CEEHRC//53802.CEEHRC.MS033201.WGB-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53803.CEEHRC.MS033201.WGB-Seq.methylation_profile.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53804.CEEHRC.MS033201.WGB-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53825.CEEHRC.MS033301.WGB-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53826.CEEHRC.MS033301.WGB-Seq.methylation_profile.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53827.CEEHRC.MS033301.WGB-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53847.CEEHRC.MS033401.WGB-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53848.CEEHRC.MS033401.WGB-Seq.methylation_profile.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53849.CEEHRC.MS033401.WGB-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53870.CEEHRC.MS033501.WGB-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53871.CEEHRC.MS033501.WGB-Seq.methylation_profile.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53872.CEEHRC.MS033501.WGB-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53764.CEEHRC.MS033601.RNA-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53765.CEEHRC.MS033601.RNA-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53766.CEEHRC.MS040901.RNA-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53767.CEEHRC.MS040901.RNA-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53768.CEEHRC.MS040902.RNA-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53769.CEEHRC.MS040902.RNA-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53770.CEEHRC.MS046401.RNA-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53771.CEEHRC.MS046401.RNA-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53772.CEEHRC.MS046402.RNA-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53773.CEEHRC.MS046402.RNA-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53774.CEEHRC.MS046501.RNA-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53775.CEEHRC.MS046501.RNA-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53776.CEEHRC.MS046502.RNA-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53777.CEEHRC.MS046502.RNA-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53778.CEEHRC.MS046601.RNA-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53779.CEEHRC.MS046601.RNA-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53780.CEEHRC.MS046602.RNA-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53781.CEEHRC.MS046602.RNA-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53800.CEEHRC.MS033201.RNA-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53801.CEEHRC.MS033201.RNA-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53823.CEEHRC.MS033301.RNA-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53824.CEEHRC.MS033301.RNA-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53845.CEEHRC.MS033401.RNA-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53846.CEEHRC.MS033401.RNA-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53868.CEEHRC.MS033501.RNA-Seq.signal_forward.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53869.CEEHRC.MS033501.RNA-Seq.signal_reverse.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53763.CEEHRC.MS033601.Input.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53799.CEEHRC.MS033201.Input.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53822.CEEHRC.MS033301.Input.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53844.CEEHRC.MS033401.Input.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53867.CEEHRC.MS033501.Input.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53759.CEEHRC.MS033601.H3K4me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53760.CEEHRC.MS033601.H3K4me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53795.CEEHRC.MS033201.H3K4me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53796.CEEHRC.MS033201.H3K4me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53818.CEEHRC.MS033301.H3K4me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53819.CEEHRC.MS033301.H3K4me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53840.CEEHRC.MS033401.H3K4me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53841.CEEHRC.MS033401.H3K4me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53863.CEEHRC.MS033501.H3K4me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53864.CEEHRC.MS033501.H3K4me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53761.CEEHRC.MS033601.H3K9me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53762.CEEHRC.MS033601.H3K9me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53797.CEEHRC.MS033201.H3K9me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53798.CEEHRC.MS033201.H3K9me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53820.CEEHRC.MS033301.H3K9me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53821.CEEHRC.MS033301.H3K9me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53842.CEEHRC.MS033401.H3K9me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53843.CEEHRC.MS033401.H3K9me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53865.CEEHRC.MS033501.H3K9me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53866.CEEHRC.MS033501.H3K9me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53756.CEEHRC.MS033601.H3K27me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53789.CEEHRC.MS033201.H3K27me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53790.CEEHRC.MS033201.H3K27me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53812.CEEHRC.MS033301.H3K27me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53813.CEEHRC.MS033301.H3K27me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53835.CEEHRC.MS033401.H3K27me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53836.CEEHRC.MS033401.H3K27me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53857.CEEHRC.MS033501.H3K27me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53858.CEEHRC.MS033501.H3K27me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53757.CEEHRC.MS033601.H3K36me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53791.CEEHRC.MS033201.H3K36me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53792.CEEHRC.MS033201.H3K36me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53814.CEEHRC.MS033301.H3K36me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53815.CEEHRC.MS033301.H3K36me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53837.CEEHRC.MS033401.H3K36me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53838.CEEHRC.MS033401.H3K36me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53859.CEEHRC.MS033501.H3K36me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53860.CEEHRC.MS033501.H3K36me3.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53758.CEEHRC.MS033601.H3K4me1.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53793.CEEHRC.MS033201.H3K4me1.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53794.CEEHRC.MS033201.H3K4me1.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53816.CEEHRC.MS033301.H3K4me1.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53817.CEEHRC.MS033301.H3K4me1.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53839.CEEHRC.MS033401.H3K4me1.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53861.CEEHRC.MS033501.H3K4me1.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53862.CEEHRC.MS033501.H3K4me1.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53754.CEEHRC.MS033601.H3K27ac.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53755.CEEHRC.MS033601.H3K27ac.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53787.CEEHRC.MS033201.H3K27ac.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53788.CEEHRC.MS033201.H3K27ac.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53810.CEEHRC.MS033301.H3K27ac.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53811.CEEHRC.MS033301.H3K27ac.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53833.CEEHRC.MS033401.H3K27ac.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53834.CEEHRC.MS033401.H3K27ac.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53855.CEEHRC.MS033501.H3K27ac.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53856.CEEHRC.MS033501.H3K27ac.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53786.CEEHRC.MS033201.Chipmentation H3K4me1.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53809.CEEHRC.MS033301.Chipmentation H3K4me1.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53832.CEEHRC.MS033401.Chipmentation H3K4me1.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53785.CEEHRC.MS033201.Chipmentation H3K27me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53808.CEEHRC.MS033301.Chipmentation H3K27me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53784.CEEHRC.MS033201.Chipmentation H3K27ac.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53807.CEEHRC.MS033301.Chipmentation H3K27ac.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53831.CEEHRC.MS033401.Chipmentation H3K27me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53830.CEEHRC.MS033401.Chipmentation H3K27ac.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53854.CEEHRC.MS033501.Chipmentation H3K4me1.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53853.CEEHRC.MS033501.Chipmentation H3K27me3.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53852.CEEHRC.MS033501.Chipmentation H3K27ac.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53752.CEEHRC.MS033601.ATAC-Seq.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53753.CEEHRC.MS033601.ATAC-Seq.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53782.CEEHRC.MS033201.ATAC-Seq.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53783.CEEHRC.MS033201.ATAC-Seq.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53805.CEEHRC.MS033301.ATAC-Seq.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53806.CEEHRC.MS033301.ATAC-Seq.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53828.CEEHRC.MS033401.ATAC-Seq.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53829.CEEHRC.MS033401.ATAC-Seq.peak_calls.bigBed
+http://epigenomesportal.ca/tracks/CEEHRC//53850.CEEHRC.MS033501.ATAC-Seq.signal_unstranded.bigWig
+http://epigenomesportal.ca/tracks/CEEHRC//53851.CEEHRC.MS033501.ATAC-Seq.peak_calls.bigBed
