@@ -75,7 +75,6 @@ core.hist.dt[, table(experiment, dataType)]
 
 match.dt[experiment %in% core.hist.vec & grepl("signal", dataType), table(experiment, genome)]
 
-
 for(file.i in 1:nrow(core.hist.dt)){
   file.row <- core.hist.dt[file.i]
   u <- bigWigs.dt$url[file.row$row]
