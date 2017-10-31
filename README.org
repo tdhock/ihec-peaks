@@ -1,0 +1,8 @@
+** 31 Oct 2017
+
+This URL is a list of all data sets available on the portal,
+downloaded to [[file:2017-10-bigWigs.txt]]
+
+http://epigenomesportal.ca/cgi-bin/downloadList.cgi?b=2017-10
+
+Analysis in [[file:bigWigs.R]]
