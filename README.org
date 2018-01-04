@@ -1,3 +1,6 @@
+** 4 Jan 2018
+[[file:ENCODE_download.R]] downloads H3K4me3 and H3K36me3 bam files for a
+few cell types + corresponding controls.
 ** 31 Oct 2017
 
 This URL is a list of all data sets available on the portal,
